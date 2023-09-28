@@ -14,6 +14,7 @@ function draw() {
   for(let i = 0;i < 8;i++){
   bobbel[i].Show();
   Update.bobbel();
+  //hej
 }
 
 }
